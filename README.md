@@ -1,0 +1,2 @@
+# Hotel_Analysis
+This project presents a comprehensive data analysis of AtliQ Hotels, a hospitality company. The primary goal is to analyze their booking data from the past three months to uncover key trends and insights related to occupancy, revenue, and customer behavior. By leveraging Python and the pandas library, this analysis aims to answer critical business questions and provide actionable insights for improving hotel performance.
